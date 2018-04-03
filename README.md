@@ -15,3 +15,5 @@ Simpes test caeses for python
     # or
     cd strings; python -m unittest test
 
+### Webhooks with jenkins
+Test with jenkins
